@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="max-w-md">
             <h1 className="text-5xl font-bold">Welcome To {''}
             <span className="  font-bold bg-gradient-to-r from-orange-700 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient ">ByteBlaze</span></h1>
-            <p className="py-6">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+            <p className="py-6">Provident is  cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
            <div className="flex gap-3 justify-center">
           
 
